@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huhu&#39;s home</title>
+  
+  <subtitle>狐狐的脑窝</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lamberthuhu.github.io/"/>
+  <updated>2019-07-30T07:31:08.918Z</updated>
+  <id>http://lamberthuhu.github.io/</id>
+  
+  <author>
+    <name>狐狐</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mySecondBlog</title>
+    <link href="http://lamberthuhu.github.io/2019/07/30/mysecondblog/"/>
+    <id>http://lamberthuhu.github.io/2019/07/30/mysecondblog/</id>
+    <published>2019-07-30T07:31:08.000Z</published>
+    <updated>2019-07-30T07:31:08.918Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://lamberthuhu.github.io/2019/07/30/my-first-blog/"/>
+    <id>http://lamberthuhu.github.io/2019/07/30/my-first-blog/</id>
+    <published>2019-07-30T07:26:01.617Z</published>
+    <updated>2019-07-30T07:27:09.894Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;My-First-Blog&quot;&gt;&lt;a href=&quot;#My-First-Blog&quot; class=&quot;headerlink&quot; title=&quot;My First Blog&quot;&gt;&lt;/a&gt;My First Blog&lt;/h2&gt;&lt;p&gt;hello
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lamberthuhu.github.io/2019/07/30/hello-world/"/>
+    <id>http://lamberthuhu.github.io/2019/07/30/hello-world/</id>
+    <published>2019-07-30T07:12:41.755Z</published>
+    <updated>2019-07-30T07:12:41.755Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
